@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "332174363241",
+    "project_id": "eligere-f57fb",
+    "storage_bucket": "eligere-f57fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332174363241:android:0b90f0ee2eb4b8434e70f8",
+        "android_client_info": {
+          "package_name": "com.example.eligere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332174363241-2mttbo06shlpi0ped5ff2u0hfv970hjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbDHOFsealUqZBqbxkaa9Xbp-opa9HW9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332174363241-2mttbo06shlpi0ped5ff2u0hfv970hjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
